@@ -1,0 +1,5 @@
+1,Rich Dad Poor Dad,Robert Kiyosaki,500,200
+2,The Monk Who sold His ferrari,Robin Sharma,300,193
+3,The Alchemist,Paulo Coelho,320,200
+4,The Complete Novel of Sherlock Holmes,Sir Arthur Conan Doyle,200,300
+5,The Intelligent Investor,Benjamin Graham,600,300
